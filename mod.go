@@ -1,4 +1,4 @@
-package mod
+package go-mod-test
 
 import "fmt"
 
